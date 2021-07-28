@@ -1,6 +1,6 @@
 ### console.log('Hola Mundo!!! 👋')
 
-
+![Banner Astrid](https://user-images.githubusercontent.com/76055558/127387780-ebcf22b8-88ac-414b-9b63-4d102256ac46.png)
 
 **Astridp85/Astridp85** ✨ ✨ Soy estudiante de Front-end Developer en Laboratoria, descubriendo una verdadera pasión por el código.
 
