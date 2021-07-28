@@ -1,5 +1,5 @@
-### console.log('Hola Mundo 👋')
-[img](https://www.canva.com/design/DAElb9ZOeZA/72az4zAVeYmyBiTOfzHSsA/view?utm_content=DAElb9ZOeZA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+### console.log('Hola Mundo!!! 👋')
+
 
 **Astridp85/Astridp85** ✨ ✨ Soy estudiante de Front-end Developer en Laboratoria, descubriendo una verdadera pasión por el código.
 
