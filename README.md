@@ -8,4 +8,4 @@
 - 👯 Buscando poder colaborar en algún proyecto que amplie mis conocimientos, pero además pueda contribuir con el ambiente o la sociedad... Si algo tienes en mente yo soy la persona
 - 🛠️ Con conocimientos en JavaScript, Node.Js, HTML5, CSS3, API REST Firebase.
 - 💬 Sobre mi te puedo decir que además de gustarme el código, me gusta mucho el mundo culinario, me encanta cocinar y retarme a elaborar distintas recetas.
-- 📫 Para localizarme puedes acceder a mi perfil de linkedin: www.linkedin.com/in/astridpinero, así me puedes conocer a nivel profesiona. 
+- 📫 Para localizarme puedes acceder a mi perfil de linkedin: www.linkedin.com/in/astridpinero, así me puedes conocer a nivel profesional. 
