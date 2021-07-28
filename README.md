@@ -1,6 +1,7 @@
 ### console.log('Hola Mundo!!! 👋')
 
 
+
 **Astridp85/Astridp85** ✨ ✨ Soy estudiante de Front-end Developer en Laboratoria, descubriendo una verdadera pasión por el código.
 
 - 🔭 Estoy trabajando en ampliar mis conocimientos y en la búsqueda de la optimización de mi código.
